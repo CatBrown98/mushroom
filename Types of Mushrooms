@@ -1,0 +1,39 @@
+<head>
+	<title>Mushrooms</title>
+<head>
+	<body>
+		<p><h1>The Ultimate Guide to Mushrooms</h1></p>
+		<nav class="menu">
+			<ul>
+				<li><a href="Homepage.html">Home</a></li>
+				<li><a href="Types of Mushrooms.html">Types of Mushrooms</a></li>
+				<li><a href="Morphology.html">Morphology</a></li>
+				<li><a href="Growth.html">Growth</a></li>
+				<li><a href="Human Use.html">Human Use</a></li>
+			<ul>
+		<p><h2>Types of Mushrooms</h2></p>
+		<p><h3>Identification</h3></p>
+		
+		<p>Identifying mushrooms requires a basic understanding of their macroscopic structure. Most are <i class="biology">Basidiomycetes</i> and gilled. Their spores, called <i class="biology">basidiospores</i>, are produced on the gills and fall in a fine rain of powder from under the caps as a result. At the microscopic level, the <i class="latin">basidiospores</i> are shot off <i class="latin">basidia</i> and then fall between the gills in the dead air space. As a result, for most mushrooms, if the cap is cut off and placed gill-side-down overnight, a powdery impression reflecting the shape of the gills (or pores, or spines, etc.) is formed (when the fruit body is sporulating). The color of the powdery print, called a <dfn id="def-sporeprint">spore print</dfn>, is used to help classify mushrooms and can help to identify them. Spore print colors include white (most common), brown, black, purple-brown, pink, yellow, and creamy, but almost never blue, green, or red.</p>
+		<p>While modern identification of mushrooms is quickly becoming molecular, the standard methods for identification are still used by most and have developed into a fine art harking back to medieval times and the Victorian era, combined with microscopic examination. The presence of juices upon breaking, bruising reactions, odors, tastes, shades of color, habitat, habit, and season are all considered by both amateur and professional mycologists. Tasting and smelling mushrooms carries its own hazards because of poisons and allergens. Chemical tests are also used for some genera.</p>
+		<p>In general, identification to genus can often be accomplished in the field using a local mushroom guide. Identification to species, however, requires more effort; one must remember that a mushroom develops from a button stage into a mature structure, and only the latter can provide certain characteristics needed for the identification of the species. However, over-mature specimens lose features and cease producing spores. Many novices have mistaken humid water marks on paper for white spore prints, or discolored paper from oozing liquids on lamella edges for colored spored prints.</p>
+		
+		<p><h3>Classification</h3></p>
+		
+		<p>Typical mushrooms are the fruit bodies of members of the order <i class="latin">Agaricales</i>, whose type genus is <i class="latin">Agaricus</i> and type species is the field mushroom, <i class="latin">Agaricus campestris</i>. However, in modern molecularly defined classifications, not all members of the order  <i class="latin">Agaricales</i> produce mushroom fruit bodies, and many other gilled fungi, collectively called mushrooms, occur in other orders of the class  <i class="latin">Agaricomycetes</i>. For example, chanterelles are in the  <i class="latin">Cantharellales</i>, false  <i class="latin">chanterelles</i> such as <i class="greek">Gomphus</i> are in the <i class=greek>Gomphales</i>, milk-cap mushrooms ( <i class="latin">Lactarius</i>,  <i class="latin">Lactifluus</i>) and  <i class="latin">russulas</i> (Russula), as well as  <i class="latin">Lentinellus</i>, are in the  <i class="latin">Russulales</i>, while the tough, leathery genera  <i class="latin">Lentinus</i> and  <i class="latin">Panus</i> are among the <i>Polyporales</i>, but <i>Neolentinus</i> is in the <i>Gloeophyllales</i>, and the little pin-mushroom genus, <i>Rickenella</i>, along with similar genera, are in the <i>Hymenochaetales</i>.</p>
+		<p>Within the main body of mushrooms, in the <i class="latin">Agaricales</i>, are common fungi like the common <i>fairy-ring mushroom</i>, <i>shiitake</i>, <i>enoki</i>, <i>oyster mushrooms</i>, <i>fly agarics</i> and other <i>Amanitas</i>, <i>magic mushrooms</i> like species of <i class="latin">Psilocybe</i>, <i>paddy straw mushrooms</i>, <i>shaggy manes</i>, etc.</p>
+		<p>An atypical mushroom is the <i>lobster mushroom</i>, which is a deformed, cooked-lobster-colored parasitized fruitbody of a <i vlass="latin">Russula</i> or <i class="latin">Lactarius</i>, colored and deformed by the mycoparasitic <i>Ascomycete Hypomyces lactifluorum.</i></p>
+		<p>Other mushrooms are not gilled, so the term "mushroom" is loosely used, and giving a full account of their classifications is difficult. Some have pores underneath (and are usually called <i>boletes</i>), others have spines, such as the <i>hedgehog mushroom</i> and other <i>tooth fungi</i>, and so on. "Mushroom" has been used for <i>polypores</i>, <i>puffballs</i>, <i>jelly</i> fungi, <i>coral fungi</i>, <i>bracket fungi</i>, <i>stinkhorns</i>, and <i>cup fungi</i>. Thus, the term is more one of common application to macroscopic fungal fruiting bodies than one having precise taxonomic meaning. Approximately <strong>14,000 species</strong> of mushrooms are described.</p>
+		<figure>
+			<img class="classification table"
+			src="characteristics.png"
+			alt="Characteristics Table">
+			<figcaption>Morphological characteristics of the caps of mushrooms</figcaption>
+		</figure>
+		<figure>
+			<img class="russulabrevipes"
+			src="Russula_brevipes.jpg"
+			alt="Russula Brevipes">
+			<figcaption>Russula brevipes parasitized by Hypomyces lactifluorum resulting in a "lobster mushroom".</figcaption>
+		</figure>
+		<body>
